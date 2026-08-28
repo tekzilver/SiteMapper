@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="icon.png" alt="SiteMapper Logo" width="100" height="100" />
+</div>
 # SiteMapper
 ### Professional XML Sitemap Generator & Technical SEO Crawler
 **Developed by [Tekzilver](https://tekzilver.com)**
